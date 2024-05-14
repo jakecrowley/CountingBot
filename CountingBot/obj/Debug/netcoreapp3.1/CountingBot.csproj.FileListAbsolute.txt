@@ -1,0 +1,142 @@
+C:/Users/jakec/source/repos/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.exe
+C:/Users/jakec/source/repos/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csprojAssemblyReference.cache
+C:/Users/jakec/source/repos/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfoInputs.cache
+C:/Users/jakec/source/repos/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfo.cs
+C:/Users/jakec/source/repos/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.deps.json
+C:/Users/jakec/source/repos/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.json
+C:/Users/jakec/source/repos/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.dev.json
+C:/Users/jakec/source/repos/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.dll
+C:/Users/jakec/source/repos/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.pdb
+C:/Users/jakec/source/repos/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.dll
+C:/Users/jakec/source/repos/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.pdb
+C:/Users/jakec/source/repos/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.genruntimeconfig.cache
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.deps.json
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.json
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.dev.json
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.pdb
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/DSharpPlus.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Emzi0767.Common.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csprojAssemblyReference.cache
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfoInputs.cache
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfo.cs
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.CoreCompileInputs.cache
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.CopyComplete
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.dll
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.pdb
+/home/jake/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.genruntimeconfig.cache
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.exe
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.deps.json
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.json
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.dev.json
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.pdb
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/DSharpPlus.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Emzi0767.Common.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csprojAssemblyReference.cache
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfoInputs.cache
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfo.cs
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.CopyComplete
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.pdb
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.genruntimeconfig.cache
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/DnsClient.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.LibMongocrypt.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/SharpCompress.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/mongocrypt.dll
+D:/Visual Studio Projects/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.CoreCompileInputs.cache
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/DnsClient.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.LibMongocrypt.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/mongocrypt.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.exe
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.deps.json
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.json
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.runtimeconfig.dev.json
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/CountingBot.pdb
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/DnsClient.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/DSharpPlus.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Emzi0767.Common.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/SharpCompress.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/linux/native/libsnappy64.so
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/linux/native/libzstd.so
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/osx/native/libsnappy64.dylib
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/osx/native/libzstd.dylib
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/linux/native/libmongocrypt.so
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/native/mongocrypt.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.AssemblyReference.cache
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfoInputs.cache
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.AssemblyInfo.cs
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.CoreCompileInputs.cache
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.csproj.CopyComplete
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.dll
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.pdb
+C:/Users/Jake/Documents/CountingBot/CountingBot/obj/Debug/netcoreapp3.1/CountingBot.genruntimeconfig.cache
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/linux/native/libsnappy64.so
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/linux/native/libzstd.so
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/osx/native/libsnappy64.dylib
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/osx/native/libzstd.dylib
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/linux/native/libmongocrypt.so
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/osx/native/libmongocrypt.dylib
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/jake/CountingBot/CountingBot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
